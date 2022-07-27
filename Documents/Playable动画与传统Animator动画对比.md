@@ -7,7 +7,6 @@
 - 无法控制动画资产的加载时机
 - 无法运行时增删动画，只能使用OverrideController替换动画
     - 【高开销】每次替换，Unity会将所有State数据合并到AnimationSet中
-- 只能在AnimatorController级别控制动画播放过程
 
 -----
 
