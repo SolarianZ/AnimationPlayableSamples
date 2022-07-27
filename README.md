@@ -3,7 +3,7 @@ Samples of animation Playable api.
 
 Sample code:
 
-*Assets/_SAMPLES_/Runtime/*
+*Assets/\_SAMPLES\_/Runtime/*
 
 References:
 
