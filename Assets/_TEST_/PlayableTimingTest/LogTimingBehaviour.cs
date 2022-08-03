@@ -99,7 +99,9 @@ namespace GBG.TimingTest
         //
         //   info:
         //     A FrameData structure that contains information about the current frame context.
+#pragma warning disable CS0672
         public override void OnBehaviourDelay(Playable playable, FrameData info)
+#pragma warning restore CS0672
         {
             LogTiming.LogLocation(nameof(LogTimingBehaviour));
         }
